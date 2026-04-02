@@ -11,6 +11,7 @@ plugins/grpc-plugin/    @cdecker
 contrib/reprobuild/     @cdecker
 contrib/msggen/         @cdecker
 contrib/pyln-client/    @cdecker
+contrib/pyln-grpc-proto/ @cdecker
 contrib/pyln-testing/   @cdecker
 # Needed to ensure hsmd wire compatibility between releases
 hsmd/hsmd_wire.csv      @cdecker @ksedgwic @devrandom
